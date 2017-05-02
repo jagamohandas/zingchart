@@ -130,7 +130,7 @@
                 "borderRadius": "3px",
                 
             },
-            "arrows": [ /*showing an arow in plot*/
+            "arrows": [ /*showing an arrow in plot*/
    	        
    	        {
    	       "backgroundColor": "red",
